@@ -1,0 +1,6 @@
+/*
+ * *$
+ *
+ * Copyright by toolarium-system-information, all rights reserved.
+ * MIT License: https://mit-license.org
+ */
